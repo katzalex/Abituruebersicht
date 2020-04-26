@@ -1,2 +1,1 @@
-# Abituruebersicht
-Diese Website enthält eine Übersicht über die Themen der Abiturfächer sowie organisatorische Aspekte.
+smorkyo.github.io
